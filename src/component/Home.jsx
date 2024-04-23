@@ -23,17 +23,17 @@ function Home() {
                 className="w-10 h-10 mt-[20px]"
                 href="https://github.com/PhattarawadeeR"
               >
-                <img src="../assets/github-mark.png" />
+                <img src="/assets/github-mark.png" />
               </a>
               <a className="w-10 h-10 mt-[20px]" href="">
-                <img src="../assets/linkedin.png" />
+                <img src="/assets/linkedin.png" />
               </a>
             </div>
           </div>
         </div>
         <img
           className="max-w-[495px] aspect-square rounded-2xl"
-          src="../assets/photo.webp"
+          src="/assets/photo.webp"
         />
       </div>
     </div>

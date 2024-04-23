@@ -80,18 +80,12 @@ function About() {
             </div>
           </div>
           <div className="flex flex-row gap-6 mt-[25px] flex-wrap justify-center">
-            <img className="w-20 aspect-square" src="../assets/HTML.png" />
-            <img className="w-20 aspect-square" src="../assets/CSS.png" />
-            <img
-              className="w-20 aspect-square"
-              src="../assets/javascript.png"
-            />
-            <img
-              className="w-20 aspect-square"
-              src="../assets/typescript.png"
-            />
-            <img className="w-20 object-contain" src="../assets/react.png" />
-            <img className="w-20 object-contain" src="../assets/tailwind.png" />
+            <img className="w-20 aspect-square" src="/assets/HTML.png" />
+            <img className="w-20 aspect-square" src="/assets/CSS.png" />
+            <img className="w-20 aspect-square" src="/assets/javascript.png" />
+            <img className="w-20 aspect-square" src="/assets/typescript.png" />
+            <img className="w-20 object-contain" src="/assets/react.png" />
+            <img className="w-20 object-contain" src="/assets/tailwind.png" />
           </div>
         </div>
       </div>
