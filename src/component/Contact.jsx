@@ -3,8 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <section id="Contact">
-      {" "}
-      <div>
+      <div className="px-[35px]">
         <div className="flex flex-col max-w-[1040px] mx-auto">
           <div className="border-b w-full">
             <div className="flex items-center">
@@ -14,7 +13,7 @@ function Contact() {
               </div>
             </div>
           </div>
-          <div className="flex flex-row justify-between w-full gap-0 md:gap-[20px]">
+          <div className="flex flex-row justify-between w-full gap-0 md:gap-[20px] mb-[60px] md:mb-[100px] sm:mb-[80px]">
             <div className="flex flex-col mr-0 md:mr-[20px]">
               <div className="mt-[30px] md:mt-[50px]">
                 <p className="text-[14px] sm:text-[16px] md:text-[18px] text-grey-01">

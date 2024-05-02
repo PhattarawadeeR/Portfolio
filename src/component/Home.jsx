@@ -3,8 +3,7 @@ import React from "react";
 function Home() {
   return (
     <section id="Home">
-      {" "}
-      <div className="w-full my-[100px]">
+      <div className="w-full my-[100px] px-[35px]">
         <div className="flex max-w-[1040px] items-center mx-auto gap-[20px]">
           <div className="">
             <div className="text-[38px] mb-[20px]">👋🏻</div>
